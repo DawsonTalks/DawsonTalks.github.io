@@ -15,3 +15,11 @@ body {
 .title {
     font-weight: bold;
 }
+
+.box {
+    width: 65%;
+    border-radius: 12px;
+    height: 30%;
+    margin-top: 20px;
+    background: rgba(255,255,255,0.25)
+}
