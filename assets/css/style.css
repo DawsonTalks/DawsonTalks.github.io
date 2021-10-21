@@ -16,6 +16,10 @@ body {
     font-weight: bold;
 }
 
+.sub {
+    margin-top: -5px;
+}
+
 .box {
     width: 701px;
     border-radius: 6px;
