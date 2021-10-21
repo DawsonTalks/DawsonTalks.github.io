@@ -21,5 +21,6 @@ body {
     border-radius: 12px;
     height: 30%;
     margin-top: 20px;
-    background: rgba(255,255,255,0.25)
+    background: rgba(255,255,255,0.25);
+    position: absolute;
 }
