@@ -14,6 +14,9 @@ body {
 
 .title {
     font-weight: bold;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
 }
 
 .sub {
@@ -27,4 +30,5 @@ body {
     margin-top: 30px;
     background: rgba(255,255,255,0.10);
     position: relative;
+    text-shadow: 2px 2px 4px #FFFFFF;
 }
