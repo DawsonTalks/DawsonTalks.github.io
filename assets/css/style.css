@@ -18,8 +18,9 @@ body {
 
 .box {
     width: 701px;
-    border-radius: 12px;
+    border-radius: 6px;
     height: 128px;
+    margin-top: 30px;
     background: rgba(255,255,255,0.25);
     position: relative;
 }
