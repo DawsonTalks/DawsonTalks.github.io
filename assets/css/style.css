@@ -17,9 +17,9 @@ body {
 }
 
 .box {
-    width: 65%;
+    width: 700px;
     border-radius: 12px;
-    height: 30%;
+    height: 128px;
     background: rgba(255,255,255,0.25);
     position: relative;
 }
