@@ -22,8 +22,5 @@ body {
     height: 30%;
     margin-top: 20px;
     background: rgba(255,255,255,0.25);
-    top: 50%;
-    left: 50%;
     position: absolute;
-    transform: translate(-50%, -50%);
 }
