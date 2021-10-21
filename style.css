@@ -1,3 +1,11 @@
 body {
     background: #121212;
+    color: white;
+}
+
+.content {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%)
 }
